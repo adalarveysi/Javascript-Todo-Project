@@ -5,4 +5,4 @@ Bootstrap 5 Kullanılarak yapılan projemde bulunan özellikler;
 - Bütün Todoları Silme
 - Todo Filtreleme
 Todolar Local Storage'de saklanıyor. Todoları silmek istediğiniz zaman local storage'den de siliniyor.
-![SS](https://prnt.sc/fSZh4I2IjInR)
+![SS](https://github.com/adalarveysi/Javascript-Todo-Project/assets/130411309/5cf9ec9d-e8a1-4754-b62d-b89da6510ed3)
